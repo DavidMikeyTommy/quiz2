@@ -1,9 +1,3 @@
-/**
-@file college.h
-@author Matthew Aberegg
-@brief simple header file for college.cc, has 2 public variables hours and gpa
-
-
 //********************
 //Matthew Aberegg
 //Project 3

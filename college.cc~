@@ -1,7 +1,7 @@
 /**
 @file college.cc
 @author Matthew Aberegg
-@brief implementation of how the college class data will be stored, a linked list, also calculate gpa
+@breif implementation of how the college class data will be stored, a linked list, also calculate gpa
 **/
 
 
